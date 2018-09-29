@@ -1,0 +1,11 @@
+{
+  "name": "nodejs.conf-debugging-node-apps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/robophil/nodejs.conf-debugging-node-apps.git",
+  "author": "robophil <oghenerobo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "inspect-brk": "^0.1.2"
+  }
+}
